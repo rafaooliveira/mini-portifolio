@@ -1,0 +1,29 @@
+.proposta{
+  font-size: 35px;
+}
+.origem{
+  background-color: #000;
+  padding-bottom: 25px;
+}
+.titulo{
+  padding: 30px;
+  font-size: 30px
+}
+
+label{
+  color: #f0f8ff;
+}
+
+input:focus input::placeholder {
+  opacity: 0;
+}
+
+#botaoAdicionar {
+  margin-right: 360px;
+  transform: translateY(30px);
+}
+
+.glow-button:hover {
+  color: rgba(255, 255, 255, 1);
+  box-shadow: 0 5px 50px #C5B358
+}
