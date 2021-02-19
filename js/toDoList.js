@@ -47,7 +47,7 @@ function bindEvents(){
         cadastros.splice(linhaAtual,1);
         clearTable();
         renderArray();
-        alert("Tarefa removida com sucesso");
+        alert("Tarefa finalizada com sucesso");
     });
 }
 

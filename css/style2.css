@@ -24,6 +24,5 @@ input:focus input::placeholder {
 }
 
 .glow-button:hover {
-  color: rgba(255, 255, 255, 1);
-  box-shadow: 0 5px 50px #C5B358
+  box-shadow: 0 5px 50px #37ce11
 }
